@@ -21,4 +21,5 @@ The application reads data from the "adult.csv" file, which contains demographic
 
 ## License:
 
-This project is licensed under the (https://github.com/zakariaeyahya/Trend_Analysis/blob/main/LICENSE) license.
+This project is licensed under the Copyright (c) 2024 YAHYA
+license.
