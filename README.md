@@ -62,5 +62,5 @@ This Shiny application was built using R and the Shiny framework.
 
 ## 📨 Contact Me
 
-[LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile/](https://www.linkedin.com/in/zakariae-yahya/)) •
+[LinkedIn](https://www.linkedin.com/in/zakariae-yahya/)) •
 [Email](mailto:zakariae.yh@gmail.com)
