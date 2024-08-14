@@ -1,39 +1,73 @@
-# Trend Analysis
+<div align="center">
+  <div id="user-content-toc">
+    <ul>
+      <summary><h1 style="display: inline-block;">📊 Trend Analysis Shiny Application</h1></summary>
+    </ul>
+  </div>
 
-## Description:
-<p>This Shiny application aims to visualize and explore trends in demographics and income based on the provided dataset. 
-Users can filter the data by country and then explore various demographic information. 
-The application allows users to select different variables and plot types to analyze trends effectively.</p>
+  <p>An Interactive UI for exploring trends in demographics and income using Shiny.</p>
+    <a href="#" target="_blank">Visit App</a>
+    🌍
+    <a href="https://github.com/YourUsername/trend-analysis-shiny/issues" target="_blank">Request Feature</a>
+</div>
+<br>
+<div align="center">
+      <a href="#"><img src="https://img.shields.io/badge/Shiny-UI-blue" alt="Shiny Badge"/></a>
+      <img src="https://img.shields.io/github/stars/YourUsername/trend-analysis-shiny?color=blue&style=social" alt="Stars Badge"/>
+</div>
 
-## How to Use:
+<hr>
 
-<ol>
-    <li><strong>Launch the Application:</strong> Upon opening the application, users are greeted with a title "Trend in Demographics and Income" and a brief description of the purpose of the application.</li>
-    <li><strong>Select Country:</strong> Users can choose a country from the dropdown menu provided. The available options include "United-States," "Canada," "Mexico," "Germany," and "Philippines."</li>
-    <li><strong>Continuous Variable Analysis:</strong> Users can select a continuous variable ("age" or "hours_per_week") and choose between a histogram or a boxplot for visualization. The plot on the right side dynamically updates based on the selected variables and plot type.</li>
-    <li><strong>Categorical Variable Analysis:</strong> Users can select a categorical variable ("education," "workclass," or "sex") to view a bar chart on the right side. Additionally, users can check the box to stack the bar chart, combining income levels into one graph.</li>
-</ol>
+![Application Screenshot](Capture%20d’écran%202024-04-20%20165857.png)
 
-## Files:
+## 🎯 Motivation
 
-<ul>
-    <li><strong>ui.R:</strong> Contains the user interface (UI) code for the Shiny application.</li>
-    <li><strong>server.R:</strong> Contains the server-side logic for the Shiny application, including data processing and rendering plots.</li>
-</ul>
+The Trend Analysis Shiny Application was created to provide a simple, user-friendly interface for exploring demographic and income trends across different countries. This project enables users to select variables of interest and visualize them through various plots, enhancing data analysis and decision-making processes.
 
-## Data:
-<p>The application reads data from the "adult.csv" file, which contains demographic and income information.</p>
+## 🚀 Features
 
-## License:
-<p>This project is licensed under the <strong>YAHYA</strong> license.</p>
+- **Country Selection:** Filter data by selecting a country from the dropdown menu.
+- **Continuous Variable Analysis:** Choose between visualizing age or hours per week with a histogram or boxplot.
+- **Categorical Variable Analysis:** View bar charts of education, workclass, or sex, with options to stack income levels.
 
-## Screenshot:
-<img src="Capture%20d’écran%202024-04-20%20165857.png" alt="Application Screenshot" style="max-width:100%; height:auto;">
+## 🚨 Disclaimer
 
-## Contact:
-<p>For any inquiries, please reach out via email or LinkedIn:</p>
+This Shiny application is a personal project developed for educational purposes. All data and visualizations are based on the provided dataset, and the results may not represent real-world scenarios.
 
-<ul>
-    <li>Email: <a href="mailto:zakariae.yh@gmail.com">zakariae.yh@gmail.com</a></li>
-    <li>LinkedIn: <a href="https://www.linkedin.com/in/zakariae-yahya" target="_blank">Zakariae Yahya</a></li>
-</ul>
+## 👨‍🏫 Acknowledgements
+
+Special thanks to the open-source community and the creators of the R Shiny package for providing the tools and resources that made this project possible.
+
+## 🛠️ Technologies Used
+
+This Shiny application was built using R and the Shiny framework.
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img src="https://img.shields.io/badge/Shiny-UI-blue" alt="Shiny" width="120">
+
+## 💻 Usage
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/YourUsername/trend-analysis-shiny.git
+    ```
+
+2. Install the required dependencies:
+
+    ```r
+    install.packages(c("shiny", "ggplot2", "dplyr"))
+    ```
+
+3. Run the app:
+
+    ```r
+    shiny::runApp("ui.R")
+    ```
+
+4. Access the app in your browser at `http://localhost:3838`
+
+## 📨 Contact Me
+
+[LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/) •
+[Email](mailto:zakariae.yh@gmail.com)
