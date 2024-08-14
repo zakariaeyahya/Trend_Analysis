@@ -18,7 +18,6 @@
 
 <hr>
 
-![Application Screenshot](Capture%20d’écran%202024-04-20%20165857.png)
 
 ## 🎯 Motivation
 
@@ -69,5 +68,5 @@ This Shiny application was built using R and the Shiny framework.
 
 ## 📨 Contact Me
 
-[LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile/) •
+[LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile/](https://www.linkedin.com/in/zakariae-yahya/)) •
 [Email](mailto:zakariae.yh@gmail.com)
