@@ -1,24 +1,19 @@
-
 <div align="center">
-  <div id="user-content-toc">
-    <ul>
-      <summary><h1 style="display: inline-block;">📊 Trend Analysis Shiny Application</h1></summary>
-    </ul>
-  </div>
-      ![Capture d’écran 2024-04-20 165857](https://github.com/user-attachments/assets/f302c746-dc47-434f-91c6-f9e098008eb3)
-
+  <h1 style="display: inline-block;">📊 Trend Analysis Shiny Application</h1>
+  <br>
+  <img src="https://github.com/user-attachments/assets/f302c746-dc47-434f-91c6-f9e098008eb3" alt="Capture d’écran 2024-04-20 165857"/>
   <p>An Interactive UI for exploring trends in demographics and income using Shiny.</p>
-    <a href="#" target="_blank">Visit App</a>
-    🌍
-    <a href="https://github.com/YourUsername/trend-analysis-shiny/issues" target="_blank">Request Feature</a>
+  <a href="#" target="_blank">Visit App</a> 🌍
+  <a href="https://github.com/YourUsername/trend-analysis-shiny/issues" target="_blank">Request Feature</a>
 </div>
 <br>
 <div align="center">
-      <a href="#"><img src="https://img.shields.io/badge/Shiny-UI-blue" alt="Shiny Badge"/></a>
-      <img src="https://img.shields.io/github/stars/YourUsername/trend-analysis-shiny?color=blue&style=social" alt="Stars Badge"/>
+  <a href="#"><img src="https://img.shields.io/badge/Shiny-UI-blue" alt="Shiny Badge"/></a>
+  <img src="https://img.shields.io/github/stars/YourUsername/trend-analysis-shiny?color=blue&style=social" alt="Stars Badge"/>
 </div>
 
 <hr>
+
 
 
 ## 🎯 Motivation
